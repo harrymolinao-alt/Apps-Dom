@@ -1,0 +1,6 @@
+{
+  "name": "Solicitudes de Archivo",
+  "description": "Sistema de gestión y seguimiento de solicitudes de documentos o carpetas para funcionarios y encargados de archivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
